@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 My main interests are obfuscation, deobfuscation, reverse engineering, and antiсheat related research. I enjoy analyzing complex or protected code, understanding how different protection techniques work, and experimenting with ways to improve or bypass them in a research context. I often work with JavaScript, AST transformations, and tools that modify or analyze code structure. I’m especially interested in building obfuscation techniques, studying how they can be reversed, and exploring different approaches used in antiсheat systems.
+I'm 17 y.o and currently studying at a college, where I continue learning programming and improving my skills in code analysis and protection techniques.
 
 * ✉️  You can contact me at [bucketofvished@gmail.com](mailto:bucketofvished@gmail.com)
 * 🧠  I'm currently learning React, C++, C#, JavaScript

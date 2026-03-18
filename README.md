@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is DragonDragging
+Hi My name is unnxor
 =======================================================================================================================================
 
 My main interests are obfuscation, deobfuscation, reverse engineering, and antiсheat related research. I enjoy analyzing complex or protected code, understanding how different protection techniques work, and experimenting with ways to improve or bypass them in a research context. I often work with JavaScript, AST transformations, and tools that modify or analyze code structure. I’m especially interested in building obfuscation techniques, studying how they can be reversed, and exploring different approaches used in antiсheat systems.
